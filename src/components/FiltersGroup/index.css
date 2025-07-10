@@ -1,0 +1,37 @@
+.side-bar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* align-items: center; */
+  padding-top: 24px;
+  width: 30%;
+}
+.seprator {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 90%;
+}
+.filter-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+.filters-list {
+  list-style-type: none;
+}
+.fliters-list-item {
+  margin-bottom: 15px;
+}
+.checkbox-input {
+  margin-right: 8px;
+  height: 15px;
+  width: 15px;
+}
+.filter-label {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+}
