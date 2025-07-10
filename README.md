@@ -1,5 +1,7 @@
 In this project, let's build a **Jobby App**
 
+https://assets.ccbp.in/frontend/content/react-js/jobby-app-success-output-v0.mp4
+
 ### Set Up Instructions
 
 <details>
